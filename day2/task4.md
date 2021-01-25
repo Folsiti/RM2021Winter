@@ -95,12 +95,12 @@ while x1 < l and x2 < l:
     time += 1
 z1 = x1 >= l
 z2 = x2 >= l
-if z1 and not z2 :
-    print(time, " R")
-elif z2 and not z1 :
+if z1 and z2 :
+    print(time, " D")
+elif z2:
     print(time, " T")
 else:
-    print(time, " D")
+    print(time, " R")
 
 ```
 
