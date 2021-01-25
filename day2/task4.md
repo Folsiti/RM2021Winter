@@ -24,7 +24,7 @@ for i in range(1500,2701):
 #### 代码：
 
 ```python
-i = 0     #初始值，放报错
+i = 0     #初始值，防报错
 for i in range(1500,2701):
     if i%7 == 0:
         if i%5 == 0:
