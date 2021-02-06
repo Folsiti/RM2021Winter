@@ -121,4 +121,5 @@ cv.destroyAllWindows()
 ```
 
 ![Image](https://github.com/Folsiti/RM2021Winter/blob/main/cvday1/imgs/folsiti.png)
+
 PS:这里整了点活，有一个一直转的矩形框
