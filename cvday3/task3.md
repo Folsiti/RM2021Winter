@@ -36,6 +36,13 @@ out.release()
 print("Finish")
 ```
 
+### 效果：
+
+B站链接：https://www.bilibili.com/video/BV1if4y1r7aJ/
+
+~~（懒得加BGM了）~~
+
 ### 题外话：
 
 之前输出的视频一直没有不能播放，搞了半天原来是解码器的问题。MP4V这个解码器同样可以输出avi格式的视频
+
